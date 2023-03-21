@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+}
+body {
+    background: #3f4540 url(download.jpg) center no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 0px;
+}
+a {
+    color: aliceblue;
+    padding-right: 20px;
+    font-size: 25px;
+    display: inline;
+    text-decoration: none;
+    border-color: aquamarine;
+}
+h1 {
+    color: aliceblue;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 80px;
+}
+h4 {
+    color: aliceblue;
+    margin-top: -20px;
+    text-align: center;
+    font-size: 25px;
+}
+ul {
+    margin: 0px;
+}
+.nav {
+    padding: 15px;
+    background: none;
+    background-color: #3f4540;
+    text-align: center;
+}
